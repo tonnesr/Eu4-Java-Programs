@@ -1,2 +1,2 @@
 # Eu4-Java-Programs
-A collection of java program to do repetetive tasks.
+A collection of Java programs designed to do repetetive tasks. I.e. changing values.
